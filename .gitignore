@@ -7,6 +7,6 @@
 
 # OS junk files
 .DS_Store
-
+ 
 # Editor configs
 .vscode/
